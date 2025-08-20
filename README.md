@@ -13,5 +13,5 @@
 ## Compile yourself
 
 ```bash
-g++ snake.cpp -o snake.exe
-./snake.exe
+g++ main.cpp -o main.exe
+./main.exe
