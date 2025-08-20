@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33423.109
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeGame", "SnakeGame.vcxproj", "{E8F3B672-6F91-4D57-AF41-123456789ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8F3B672-6F91-4D57-AF41-123456789ABC}.Debug|x64.ActiveCfg = Debug|x64
+		{E8F3B672-6F91-4D57-AF41-123456789ABC}.Debug|x64.Build.0 = Debug|x64
+		{E8F3B672-6F91-4D57-AF41-123456789ABC}.Release|x64.ActiveCfg = Release|x64
+		{E8F3B672-6F91-4D57-AF41-123456789ABC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
