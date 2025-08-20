@@ -2,12 +2,6 @@
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue) ![Console](https://img.shields.io/badge/Platform-PC-blue)
 
----
-
-## Control
-
-Normal WASD Controls
----
 
 
 ## Required
